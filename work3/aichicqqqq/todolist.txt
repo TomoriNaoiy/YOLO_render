@@ -1,2 +1,0 @@
-修改：将master迁移至main
-https://github.com/aichicqqqq/cqqqq
